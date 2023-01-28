@@ -1,0 +1,144 @@
+[?1h=[?25l[H[2J(B[mtop - 08:24:48 up 5 min,  0 users,  load average: 0.00, 0.00, 0.00(B[m[39;49m(B[m[39;49m[K
+Tasks:(B[m[39;49m[1m   5 (B[m[39;49mtotal,(B[m[39;49m[1m   1 (B[m[39;49mrunning,(B[m[39;49m[1m   4 (B[m[39;49msleeping,(B[m[39;49m[1m   0 (B[m[39;49mstopped,(B[m[39;49m[1m   0 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s):(B[m[39;49m[1m  0.0 (B[m[39;49mus,(B[m[39;49m[1m  0.5 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 99.5 (B[m[39;49mid,(B[m[39;49m[1m  0.0 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m  15965.7 (B[m[39;49mtotal,(B[m[39;49m[1m  15806.0 (B[m[39;49mfree,(B[m[39;49m[1m     97.5 (B[m[39;49mused,(B[m[39;49m[1m     62.2 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m   4096.0 (B[m[39;49mtotal,(B[m[39;49m[1m   4096.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m  15676.4 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+[7m  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND                                                         (B[m[39;49m[K
+(B[m    1 root      20   0    1816   1188   1108 S   0.0   0.0   0:00.01 init                                                            (B[m[39;49m[K
+(B[m    8 root      20   0    2164    364      0 S   0.0   0.0   0:00.00 init                                                            (B[m[39;49m[K
+(B[m    9 root      20   0    2172    364      0 S   0.0   0.0   0:00.05 init                                                            (B[m[39;49m[K
+(B[m   10 bairo     20   0    6184   5228   3428 S   0.0   0.0   0:00.02 bash                                                            (B[m[39;49m[K
+(B[m[1m   63 bairo     20   0    7796   3228   2868 R   0.0   0.0   0:00.00 top                                                             (B[m[39;49m[K
+[J[H(B[mtop - 08:24:51 up 5 min,  0 users,  load average: 0.00, 0.00, 0.00(B[m[39;49m(B[m[39;49m[K
+
+%Cpu(s):(B[m[39;49m[1m  0.0 (B[m[39;49mus,(B[m[39;49m[1m  0.0 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m100.0 (B[m[39;49mid,(B[m[39;49m[1m  0.0 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m  15965.7 (B[m[39;49mtotal,(B[m[39;49m[1m  15805.9 (B[m[39;49mfree,(B[m[39;49m[1m     97.5 (B[m[39;49mused,(B[m[39;49m[1m     62.3 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+
+[K
+
+
+
+
+
+(B[m[1m   63 bairo     20   0    7796   3640   3044 R   0.0   0.0   0:00.00 top                                                             (B[m[39;49m[K
+[J[H(B[mtop - 08:24:54 up 5 min,  0 users,  load average: 0.00, 0.00, 0.00(B[m[39;49m(B[m[39;49m[K
+
+
+
+
+[K
+
+
+
+
+
+
+[J[H(B[mtop - 08:24:57 up 5 min,  0 users,  load average: 0.00, 0.00, 0.00(B[m[39;49m(B[m[39;49m[K
+
+
+
+
+[K
+
+
+
+
+
+
+[J[6;1H[7m Unknown command - try 'h' for help [?25l(B[m[39;49m[K[?25l[H(B[mtop - 08:25:01 up 5 min,  0 users,  load average: 0.00, 0.00, 0.00(B[m[39;49m(B[m[39;49m[K
+
+
+
+
+[K
+
+
+
+
+
+
+[J[6;1H[7m Unknown command - try 'h' for help [?25l(B[m[39;49m[K[?25l[H(B[mtop - 08:25:02 up 5 min,  0 users,  load average: 0.00, 0.00, 0.00(B[m[39;49m(B[m[39;49m[K
+
+
+
+
+[K
+
+
+
+
+
+
+[J[H(B[mtop - 08:25:05 up 5 min,  0 users,  load average: 0.00, 0.00, 0.00(B[m[39;49m(B[m[39;49m[K
+
+
+MiB Mem :(B[m[39;49m[1m  15965.7 (B[m[39;49mtotal,(B[m[39;49m[1m  15805.9 (B[m[39;49mfree,(B[m[39;49m[1m     97.4 (B[m[39;49mused,(B[m[39;49m[1m     62.3 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+
+[K
+
+
+
+
+
+
+[J[H(B[mtop - 08:25:08 up 6 min,  0 users,  load average: 0.00, 0.00, 0.00(B[m[39;49m(B[m[39;49m[K
+
+
+
+
+[K
+
+
+
+
+
+
+[J[H(B[mtop - 08:25:11 up 6 min,  0 users,  load average: 0.00, 0.00, 0.00(B[m[39;49m(B[m[39;49m[K
+
+
+
+
+[K
+
+
+
+
+
+
+[J[?25l[HTasks:(B[m[39;49m[1m   5 (B[m[39;49mtotal,(B[m[39;49m[1m   1 (B[m[39;49mrunning,(B[m[39;49m[1m   4 (B[m[39;49msleeping,(B[m[39;49m[1m   0 (B[m[39;49mstopped,(B[m[39;49m[1m   0 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s):(B[m[39;49m[1m  0.0 (B[m[39;49mus,(B[m[39;49m[1m  0.0 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m100.0 (B[m[39;49mid,(B[m[39;49m[1m  0.0 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m  15965.7 (B[m[39;49mtotal,(B[m[39;49m[1m  15805.9 (B[m[39;49mfree,(B[m[39;49m[1m     97.4 (B[m[39;49mused,(B[m[39;49m[1m     62.3 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m   4096.0 (B[m[39;49mtotal,(B[m[39;49m[1m   4096.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m  15676.4 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+[7m  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND                                                         (B[m[39;49m[K
+(B[m    1 root      20   0    1816   1188   1108 S   0.0   0.0   0:00.01 init                                                            (B[m[39;49m[K
+(B[m    8 root      20   0    2164    364      0 S   0.0   0.0   0:00.00 init                                                            (B[m[39;49m[K
+(B[m    9 root      20   0    2172    364      0 S   0.0   0.0   0:00.05 init                                                            (B[m[39;49m[K
+(B[m   10 bairo     20   0    6184   5228   3428 S   0.0   0.0   0:00.02 bash                                                            (B[m[39;49m[K
+(B[m[1m   63 bairo     20   0    7796   3640   3044 R   0.0   0.0   0:00.00 top                                                             (B[m[39;49m[K
+[J[5;1H[7m Command disabled, 'A' mode required [?25l(B[m[39;49m[K[?25l[HTasks:(B[m[39;49m[1m   5 (B[m[39;49mtotal,(B[m[39;49m[1m   1 (B[m[39;49mrunning,(B[m[39;49m[1m   4 (B[m[39;49msleeping,(B[m[39;49m[1m   0 (B[m[39;49mstopped,(B[m[39;49m[1m   0 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s):(B[m[39;49m[1m  0.0 (B[m[39;49mus,(B[m[39;49m[1m  0.0 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m100.0 (B[m[39;49mid,(B[m[39;49m[1m  0.0 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m  15965.7 (B[m[39;49mtotal,(B[m[39;49m[1m  15805.9 (B[m[39;49mfree,(B[m[39;49m[1m     97.4 (B[m[39;49mused,(B[m[39;49m[1m     62.3 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m   4096.0 (B[m[39;49mtotal,(B[m[39;49m[1m   4096.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m  15676.4 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+[7m  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND                                                         (B[m[39;49m[K
+(B[m    1 root      20   0    1816   1188   1108 S   0.0   0.0   0:00.01 init                                                            (B[m[39;49m[K
+(B[m    8 root      20   0    2164    364      0 S   0.0   0.0   0:00.00 init                                                            (B[m[39;49m[K
+(B[m    9 root      20   0    2172    364      0 S   0.0   0.0   0:00.05 init                                                            (B[m[39;49m[K
+(B[m   10 bairo     20   0    6184   5228   3428 S   0.0   0.0   0:00.02 bash                                                            (B[m[39;49m[K
+(B[m[1m   63 bairo     20   0    7796   3640   3044 R   0.0   0.0   0:00.00 top                                                             (B[m[39;49m[K
+[J[?25l[H(B[mtop - 08:25:17 up 6 min,  0 users,  load average: 0.00, 0.00, 0.00(B[m[39;49m(B[m[39;49m[K
+Tasks:(B[m[39;49m[1m   5 (B[m[39;49mtotal,(B[m[39;49m[1m   1 (B[m[39;49mrunning,(B[m[39;49m[1m   4 (B[m[39;49msleeping,(B[m[39;49m[1m   0 (B[m[39;49mstopped,(B[m[39;49m[1m   0 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s):(B[m[39;49m[1m  0.0 (B[m[39;49mus,(B[m[39;49m[1m  0.0 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m100.0 (B[m[39;49mid,(B[m[39;49m[1m  0.0 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m  15965.7 (B[m[39;49mtotal,(B[m[39;49m[1m  15805.9 (B[m[39;49mfree,(B[m[39;49m[1m     97.4 (B[m[39;49mused,(B[m[39;49m[1m     62.3 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m   4096.0 (B[m[39;49mtotal,(B[m[39;49m[1m   4096.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m  15676.4 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+[7m  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND                                                         (B[m[39;49m[K
+(B[m    1 root      20   0    1816   1188   1108 S   0.0   0.0   0:00.01 init                                                            (B[m[39;49m[K
+(B[m    8 root      20   0    2164    364      0 S   0.0   0.0   0:00.00 init                                                            (B[m[39;49m[K
+(B[m    9 root      20   0    2172    364      0 S   0.0   0.0   0:00.05 init                                                            (B[m[39;49m[K
+(B[m   10 bairo     20   0    6184   5228   3428 S   0.0   0.0   0:00.02 bash                                                            (B[m[39;49m[K
+(B[m[1m   63 bairo     20   0    7796   3640   3044 R   0.0   0.0   0:00.00 top                                                             (B[m[39;49m[K
+[J[6;1H[1mChange delay from 3.0 to [?12;25h(B[m[39;49m[K[?12l[?25h[?1l>[34;1H
+[?12l[?25h[K
